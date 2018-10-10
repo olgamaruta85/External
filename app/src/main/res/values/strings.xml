@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">External</string>
+    <string name="file">Enter file name</string>
+    <string name="msg">Enter a message</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="Vmsg">Enter a file name and click on SHOW to display the text here</string>
+</resources>
